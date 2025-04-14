@@ -1,1 +1,1 @@
-- # GIAIC - Q3 Projects
+# GIAIC - Q3 Projects
